@@ -1,5 +1,6 @@
 ![Riliam Logo](https://cdn.discordapp.com/attachments/654578424631001108/758637625480970270/Riliam_logo.png)
 [![Discord](https://img.shields.io/discord/343440455738064897.svg)](https://discord.gg/Bw7K9Uk)
+
 **The fashion to become own king**
 # 公司介紹
 本伺服器是以多核心企業公司之組織，

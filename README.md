@@ -8,4 +8,4 @@
 # 公司結構
 本公司共分成多個職位機關，每個職位機關皆有不同的工作處理程序及權限，並達成分工合作的目標，進而提升效率。
 除了各機關的工作處理程序，為了能與各機關相互交流，將進而細分為「部門」
-詳情參閱:[公司結構](https://github.com/Riliam/Position-structure/wiki/公司結構)
+詳情參閱: [公司結構](https://github.com/Riliam/Position-structure/wiki/公司結構)

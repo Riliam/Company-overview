@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/discord/343440455738064897.svg)](https://discord.gg/Bw7K9Uk)
 
-**The fashion to become own king**
+**The fashion to become own kings**
 # 公司介紹
 本伺服器是以多核心企業公司之組織，
 擁有營利及非營利的各種平台，擁有許多不同領域的平台分享，

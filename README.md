@@ -1,4 +1,4 @@
-![Riliam Logo](https://img.onl/Ck01Y6)
+![Riliam Logo](https://img.onl/p6f4zN)
 
 [![Discord](https://img.shields.io/discord/343440455738064897.svg)](https://discord.gg/Bw7K9Uk)
 

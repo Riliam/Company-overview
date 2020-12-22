@@ -1,4 +1,4 @@
-![Riliam Logo](https://cdn.discordapp.com/attachments/759449473302003763/764529194822402058/Riliam_logo.png)
+![Riliam Logo](https://img.onl/Ck01Y6)
 [![Discord](https://img.shields.io/discord/343440455738064897.svg)](https://discord.gg/Bw7K9Uk)
 
 **The fashion to become own king**
